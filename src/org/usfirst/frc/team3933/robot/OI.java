@@ -8,7 +8,7 @@ import org.usfirst.frc.team3933.robot.commands.ExampleCommand;
 
 /**guyguyglololollollolollolloloolloollolvgclulkggfc
  * This class is the glue that binds the controls on the physical operator
- * interface to the commands and command groups that allow control of the robot.
+ * interface to the commands and command groups that allow control of the robot.las llamas son del illumminati
  */
 public class OI {
 	Joystick joy1 = new Joystick(1) ;
